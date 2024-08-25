@@ -1,0 +1,9 @@
+﻿A construção começou em 20:54...
+1>------ Compilação iniciada: Projeto: ARQUIVO PARA GITHUB, Configuração: Debug Any CPU ------
+1>Ignorando analisadores para acelerar a construção. Você pode executar o comando 'Build' ou 'Rebuild' para executar os analisadores.
+1>C:\Users\rodri\source\repos\ARQUIVO PARA GITHUB\ARQUIVO PARA GITHUB\Program.cs(3,9,3,16): warning CS0219: A variável "salario" é atribuída, mas seu valor nunca é usado
+1>C:\Users\rodri\source\repos\ARQUIVO PARA GITHUB\ARQUIVO PARA GITHUB\Program.cs(4,8,4,12): warning CS0168: A variável "nome" está declarada, mas nunca é usada
+1>ARQUIVO PARA GITHUB -> C:\Users\rodri\source\repos\ARQUIVO PARA GITHUB\ARQUIVO PARA GITHUB\bin\Debug\net8.0\ARQUIVO PARA GITHUB.dll
+1>Projeto de compilação pronto "ARQUIVO PARA GITHUB.csproj".
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
+========== Compilação concluído às 20:54 e levou 00,692 segundos ==========
